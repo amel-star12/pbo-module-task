@@ -12,3 +12,4 @@ D:\pbo-module-task\obj\Debug\net10.0\refint\SistemSekolah.dll
 D:\pbo-module-task\obj\Debug\net10.0\SistemSekolah.pdb
 D:\pbo-module-task\obj\Debug\net10.0\SistemSekolah.genruntimeconfig.cache
 D:\pbo-module-task\obj\Debug\net10.0\ref\SistemSekolah.dll
+D:\pbo-module-task\obj\Debug\net10.0\SistemSekolah.sourcelink.json

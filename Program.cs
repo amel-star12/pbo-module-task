@@ -54,3 +54,5 @@ guruBhs.MengajarBahasa();
 guruBhs.InfoOrang();
 
 Console.WriteLine("\n===== SELESAI =====");
+Console.WriteLine("\nTekan sembarang tombol untuk keluar...");
+Console.ReadKey();

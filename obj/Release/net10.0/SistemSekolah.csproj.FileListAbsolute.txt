@@ -1,0 +1,15 @@
+D:\pbo-module-task\bin\Release\net10.0\SistemSekolah.exe
+D:\pbo-module-task\bin\Release\net10.0\SistemSekolah.deps.json
+D:\pbo-module-task\bin\Release\net10.0\SistemSekolah.runtimeconfig.json
+D:\pbo-module-task\bin\Release\net10.0\SistemSekolah.dll
+D:\pbo-module-task\bin\Release\net10.0\SistemSekolah.pdb
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.AssemblyInfoInputs.cache
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.AssemblyInfo.cs
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.csproj.CoreCompileInputs.cache
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.sourcelink.json
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.dll
+D:\pbo-module-task\obj\Release\net10.0\refint\SistemSekolah.dll
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.pdb
+D:\pbo-module-task\obj\Release\net10.0\SistemSekolah.genruntimeconfig.cache
+D:\pbo-module-task\obj\Release\net10.0\ref\SistemSekolah.dll

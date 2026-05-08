@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemSekolah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190033dfc27e8c34e15ce562e108f0781a6132df")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemSekolah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemSekolah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
