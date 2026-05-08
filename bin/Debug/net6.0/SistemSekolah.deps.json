@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemSekolah/1.0.0": {
+        "runtime": {
+          "SistemSekolah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemSekolah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
